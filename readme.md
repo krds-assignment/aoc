@@ -24,6 +24,7 @@
 - Make sure to display carousel view in small screens
   (refer mobile design)
 - Use your CSS skill to create responsive layout
+- Prefer plain CSS/LESS/SASS. Don't use CSS framework (eg. Bootsrtap)
 - Use "Open Sans" google web font
 - You can use any 3rd party js libraries
 
