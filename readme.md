@@ -2,7 +2,7 @@
 
 ## Skills required
 
-- React / Angular / Vue
+- Vue
 - CSS / LESS / SASS
 - Javascript
 
@@ -12,10 +12,7 @@
 
 ## Instructions
 
-- This assignment must use one of the following technologies
-  - React
-  - Angular
-  - Vue
+- This assignment must use Vue js
 - You've given an api which returns a mock json data
 - Use this api url to fetch the data
   (All images & text are given in api data)
