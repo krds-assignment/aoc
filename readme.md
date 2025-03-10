@@ -16,6 +16,7 @@
   - React
   - Angular
   - Vue
+- The efficiency of using the same HTML for small and large screens is an advantage
 - You've given an api which returns a mock json data
 - Use this api url to fetch the data
   (All images & text are given in api data)
