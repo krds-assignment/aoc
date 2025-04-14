@@ -1,0 +1,44 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.parentElement {
+    display: flex;
+    flex-wrap: wrap;
+}
+.detailsContent {
+}
+.title {
+    border-bottom: 2px solid #000;
+    max-width: 200px;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+.webLoopElement{
+    width: calc(33.33% - 120px);
+    padding: 70px 50px 50px 70px;
+    min-width: 500px;
+}
+.cardHeadElement {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  @media screen and (max-width:912px) {
+    .webLoopElement{
+        width: auto;
+        padding: 70px 0px 50px 0px;
+        /* height: calc(100vh - 130px); */
+        min-width: 100%;
+    }
+    .cardHeadElement {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .detailsContent {
+        margin-bottom: 60px;
+    }
+}
